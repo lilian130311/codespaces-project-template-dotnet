@@ -10,11 +10,11 @@
         <div class="portfolio-hero">
             @if (hero is not null)
             {
-                <img src="@(hero.Src)" style="height: 90%; width: 100%; object-fit: cover;" 
+                <img src="@(hero.Src)" style="height: 90%; width: 100%; object-fit: cover;  margin-left: 20px; border-radius: 15px;" 
                     alt="@(hero.Alt)" />
             }
         </div>
-        <div class="container">
+        <div class="container" style="margin-left: 30px;" >
             @foreach (var project in projects)
             {
                 <div class="box" key="@project.Title">

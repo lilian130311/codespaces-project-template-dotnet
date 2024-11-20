@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am a Computer Information & Science student at the University of Pennsylvania. Bringing experience from coursework and internships, I have developed expertise in front-end and back-end development, cloud infrastructure, and generative AI applications.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "C", "C++", "Python", "Java", "JavaScript", "TypeScript", "Julia", "R", "MATLAB",
+    "React", "AngularJS", "HTML", "CSS", "Bootstrap", "Tailwind CSS",
+    "Node.js", "Express", "RESTful APIs", "Git",
+    "MySQL", "Oracle", "MongoDB", "Neo4j", 
+    "AWS (Lambda, SQS)", 
+    "PyTorch", "Pandas", "Data Visualization (Tableau, Power BI)",
+    "Jest"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about leveraging software engineering and machine learning to create impactful, scalable solutions. Beyond technical work, I have enjoyed contributing as a Teaching Assistant, where I've improved AI bot responses, developed MOOC content, and led TA onboarding. With hands-on experience in modern software development tools and frameworks, I'm excited to continue pushing the boundaries of innovation in software development and AI."
 }
